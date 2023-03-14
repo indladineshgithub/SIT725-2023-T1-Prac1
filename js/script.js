@@ -11,6 +11,7 @@ function changeText() {
 }
 
 
+// for generation of random number between given range
 
 function getRandomNumberBetween(min, max) {
 
